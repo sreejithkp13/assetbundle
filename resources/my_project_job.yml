@@ -5,7 +5,7 @@ resources:
       name: my_project_job
 
       schedule:
-        quartz_cron_expression: '44 37 8 * * ?'
+        quartz_cron_expression: '43 37 8 * * ?'
         timezone_id: Europe/Amsterdam
 
       email_notifications:
